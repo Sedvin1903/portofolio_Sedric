@@ -9,7 +9,7 @@ function sendMail(params) {
   };
 
   $YOUR_SERVICE_ID = "service_1vlsk2u";
-  $YOUR_TEMPLATE_ID = "template_ztbw3zo";
+  $YOUR_TEMPLATE_ID = "template_zsskm2i";
   $YOUR_USER_ID = "user_JGQv0weg5uPcQXJKqMQ3I";
 
   const n = document.getElementById("fromname").value;
